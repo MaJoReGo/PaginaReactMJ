@@ -1,0 +1,26 @@
+.imagesPageTwoContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.imagesPageTwo {
+  width: 100%;
+}
+
+.imagesPagesContainer {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.imagesPage1,
+.imagesPage2,
+.imagesPage3 {
+  margin: 30px;
+}
+
+
+
+
+

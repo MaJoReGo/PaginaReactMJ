@@ -1,0 +1,7 @@
+.imagesPage img {
+  margin: 1rem;
+  width: 8rem;
+  height: 8rem;
+  border-radius: 50%;
+  box-shadow: 0 0 20px rgb(255, 144, 205);
+}
